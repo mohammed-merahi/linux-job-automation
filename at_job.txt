@@ -1,0 +1,3 @@
+# Schedule a one-time job using 'at'
+echo "/home/user/scripts/automated_backup.sh" | at 14:00
+
